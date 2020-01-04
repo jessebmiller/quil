@@ -1,4 +1,4 @@
-# Prickle
+# Quil
 
 It's a product development process, protocol, and tool.
 
