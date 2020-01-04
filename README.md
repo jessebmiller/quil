@@ -1,7 +1,10 @@
 # Prickle
-It's a product development process, protocol, and tool.
-An agent centric, decentralized, local-first system that covers what GitHub, Trello, Read The Docs, and Workday cover.
 
+It's a product development process, protocol, and tool.
+
+An agent centric, decentralized, local-first system that coordinates product vision, mission, strategy, development, operations, documentation, finance, HR, legal, and revenue sharing.
+
+It decnetralizes product companies and disintermediates executive leadership and middle management from markets and workers
 
 # Vision
 
